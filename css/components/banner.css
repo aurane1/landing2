@@ -1,0 +1,24 @@
+.banner {
+	min-height: 90vh;
+	background-image: linear-gradient(-225deg, rgba(82, 39, 30, 0.6) 52%, rgba(139, 0, 0, 0.6) 45%), url(../../images/IA.jpg);
+	background-size: cover;
+	background-position: top;
+	padding: 150 px 60 px;
+	margin: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.banner h1 {
+	font-size: 60px;
+}
+
+.banner h2 {
+	font-size: 40px;
+	font-weight: lighter;
+	opacity: 0.7;
+	margin-bottom: 70px;
+
+}
+
